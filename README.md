@@ -6,4 +6,5 @@ pkg install wget       # Untuk Termux
 sudo apt-get install wget  # Untuk Linux
 git clone https://github.com/irfa448/Tayoo.git
 cd Tayoo
+pip install 'telepot'
 python Tayoo.py
